@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @MathiasAC, some also call me MAC
+- 👋 Hi, I’m @MathiasAC
+- 👋 Nickname: MAC
+<!--- 🔭 I’m currently working on -->
+- 😄 Pronouns: He/Him.
 
 ### My Github Stats
 <a href="https://github.com/MathiasAC" align="right">
@@ -8,4 +11,21 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MathiasAC&layout=compact&theme=dark" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=MathiasAC&label=Visitors)
+#
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MathiasAC&theme=dark" width="48%">
+
+### 📌 Pinned Repositories
+<a href="https://github.com/mithom/streamlabs_chatbot_tic_tac_toe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mithom&repo=streamlabs_chatbot_tic_tac_toe&theme=dark&show_owner=true" />
+</a>
+
+<a href="https://github.com/MathiasAC/quizapp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathiasAC&repo=quizapp&theme=dark&show_owner=true" />
+</a>
+
+#
+<a href="https://stackoverflow.com/users/9950539/mathias-ac">
+  <img src="https://stackoverflow.com/users/flair/9950539.png?theme=dark" width="208" height="58" alt="profile for Mathias AC at  Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mathias AC at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
+
+![](https://komarev.com/ghpvc/?username=MathiasAC&label=Visits)
