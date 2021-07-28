@@ -18,12 +18,6 @@
 <a href="https://github.com/mithom/streamlabs_chatbot_tic_tac_toe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mithom&repo=streamlabs_chatbot_tic_tac_toe&theme=dark&show_owner=true" />
 </a>
-<a href="https://github.com/MathiasAC/quizapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathiasAC&repo=quiz_app&theme=dark&show_owner=true" />
-</a>
-<a href="https://github.com/MathiasAC/quizapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathiasAC&repo=text_adventure_game&theme=dark&show_owner=true" />
-</a>
 
 #
 <a href="https://stackoverflow.com/users/9950539/mathias-ac">
