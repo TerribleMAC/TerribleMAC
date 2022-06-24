@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MathiasAC
-- 👋 Nickname: MAC
+- 👋 Nicknames: MAC, Tyson
 <!--- 🔭 I’m currently working on -->
 - 😄 Pronouns: He/Him.
 
