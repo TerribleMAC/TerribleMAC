@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MathiasAC
+- 👋 Hi, I’m @TerribleMAC
 - 👋 Nicknames: MAC, Tyson
 <!--- 🔭 I’m currently working on -->
 - 😄 Pronouns: He/Him.
