@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TerribleMAC
-- 👋 Nicknames: MAC, Tyson
+- 👋 Nicknames: MAC
 <!--- 🔭 I’m currently working on -->
-- 😄 Pronouns: He/Him.
 
 ### My Github Stats
 <a href="https://github.com/MathiasAC" align="right">
