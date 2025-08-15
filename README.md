@@ -1,8 +1,7 @@
 # Hi, I'm MAC 👋
 
-I build minimal, privacy-first software and learn by doing.  
-Currently working on **CoreChat** — an open-source, resource-light alternative to Discord. No bloat. No trackers. Just fast, simple communication.
-
+<!-- I build minimal, privacy-first software and learn by doing.  
+Currently working on **CoreChat** — an open-source, resource-light alternative to Discord. No bloat. No trackers. Just fast, simple communication. -->
 ---
 
 ## 📦 Tech & Tools
@@ -16,7 +15,7 @@ Currently working on **CoreChat** — an open-source, resource-light alternative
 ---
 
 ## 🚧 Current Projects
-- **CoreChat** – Open-source, lightweight chat platform. Privacy-focused and bloat-free.
+<!-- - **CoreChat** – Open-source, lightweight chat platform. Privacy-focused and bloat-free. -->
 
 ---
 
@@ -25,4 +24,4 @@ Currently working on **CoreChat** — an open-source, resource-light alternative
 
 ---
 
-*Clean code. Clear purpose. Privacy first.*
+*Clean code. Clear purpose.*
